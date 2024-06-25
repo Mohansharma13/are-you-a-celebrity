@@ -90,3 +90,4 @@ Werkzeug==3.0.3
 wheel==0.43.0
 wrapt==1.16.0
 PyOpenGL
+libgl1-mesa-glx
