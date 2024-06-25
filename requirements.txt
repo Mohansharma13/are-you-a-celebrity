@@ -43,7 +43,7 @@ namex
 nest-asyncio
 numpy
 opt-einsum
-opencv-python
+opencv-python-headless==4.5.4.58
 PyOpenGL
 optree
 packaging
