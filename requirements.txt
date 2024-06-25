@@ -42,8 +42,8 @@ mtcnn==0.1.1
 namex==0.0.8
 nest-asyncio==1.6.0
 numpy==1.26.4
-opencv-python-headless
 opt-einsum==3.3.0
+PyOpenGL
 optree==0.11.0
 packaging==24.1
 pandas==2.2.2
@@ -89,4 +89,3 @@ wcwidth==0.2.13
 Werkzeug==3.0.3
 wheel==0.43.0
 wrapt==1.16.0
-PyOpenGL
